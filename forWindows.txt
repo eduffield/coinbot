@@ -1,0 +1,5 @@
+Move the following executables from the ffmpeg directory
+to the /coinbot/ on windows:
+    - ffmpeg
+    - ffplay
+    - ffprobe
