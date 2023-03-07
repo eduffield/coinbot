@@ -15,4 +15,4 @@ npm install discord.js @discordjs/voice request fs
 ```
 
 ## Screenshots
-![Example](https://github.com/eduffield/coinbot/images/screen.png)
+![Example](https://github.com/eduffield/coinbot/blob/main/images/screen.PNG)
